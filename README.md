@@ -7,7 +7,7 @@ This is the official implementation for 'Uncertainty Quantification in Stereo Ma
 
 Stereo and data uncertainty estimation:
 ```
-pip install -r dependencies.yml
+pip install -r environment.yml
 ```
 
 Model uncertainty estimation: please refer to [NUQ](https://github.com/stat-ml/NUQ).
