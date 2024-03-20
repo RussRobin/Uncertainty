@@ -1,0 +1,6 @@
+ood/left/000000_10_l.png ood/right/000000_10_r.png training/disp_occ_0/000000_10.png
+ood/left/000006_10_l.png ood/right/000006_10_r.png training/disp_occ_0/000006_10.png
+ood/left/000026_10_l.png ood/right/000026_10_r.png training/disp_occ_0/000026_10.png
+ood/left/000038_10_l.png ood/right/000038_10_r.png training/disp_occ_0/000038_10.png
+ood/left/000043_10_l.png ood/right/000043_10_r.png training/disp_occ_0/000043_10.png
+ood/left/000049_10_l.png ood/right/000049_10_r.png training/disp_occ_0/000049_10.png
