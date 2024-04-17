@@ -28,6 +28,6 @@ bash scripts/kitti1215.sh
 
 ## Citation
 
-For any questions, please feel free to reach out to russ000robin@gmail.com.
+For any questions, please feel free to start an issue.
 
 (Available soon).
